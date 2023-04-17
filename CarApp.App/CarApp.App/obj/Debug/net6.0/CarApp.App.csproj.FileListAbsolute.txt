@@ -1,0 +1,36 @@
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\bin\Debug\net6.0\CarApp.App.exe
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\bin\Debug\net6.0\CarApp.App.deps.json
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\bin\Debug\net6.0\CarApp.App.runtimeconfig.json
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\bin\Debug\net6.0\CarApp.App.dll
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\bin\Debug\net6.0\CarApp.App.pdb
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.csproj.AssemblyReference.cache
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.AssemblyInfoInputs.cache
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.AssemblyInfo.cs
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.dll
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\obj\Debug\net6.0\refint\CarApp.App.dll
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.pdb
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.genruntimeconfig.cache
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\obj\Debug\net6.0\ref\CarApp.App.dll
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\bin\Debug\net6.0\CarApp.Core.dll
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\bin\Debug\net6.0\CarApp.Core.pdb
+C:\Users\mmmma\source\repos\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.csproj.CopyComplete
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\bin\Debug\net6.0\CarApp.App.exe
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\bin\Debug\net6.0\CarApp.App.deps.json
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\bin\Debug\net6.0\CarApp.App.runtimeconfig.json
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\bin\Debug\net6.0\CarApp.App.dll
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\bin\Debug\net6.0\CarApp.App.pdb
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\bin\Debug\net6.0\CarApp.Core.dll
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\bin\Debug\net6.0\CarApp.Core.pdb
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.csproj.AssemblyReference.cache
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.AssemblyInfoInputs.cache
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.AssemblyInfo.cs
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.csproj.CopyComplete
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.dll
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\obj\Debug\net6.0\refint\CarApp.App.dll
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.pdb
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\obj\Debug\net6.0\CarApp.App.genruntimeconfig.cache
+C:\Users\mmmma\OneDrive\Рабочий стол\CarApp.App\CarApp.App\obj\Debug\net6.0\ref\CarApp.App.dll
